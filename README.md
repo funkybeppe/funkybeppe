@@ -1,7 +1,10 @@
 # 💫 About Me:
 Hi there 👋 , I am Luca Barbero<br><br>A Software Developer specialised in Web Development. <br>I have experience in the technologies listed in the toolbox below.<br><br>My interests:<br>👨🏻‍💻 Coding<br>🎮 Gaming<br>💻 Computers<br>🎶 Music<br>
 
+ 💻 ![](https://img.shields.io/badge/Apple-MacBook%20Pro%20M1%202021-orange)
+
 Visit my portfolio ➡️  [Luca Barbero](https://funkybeppe.github.io/fullstack-resume/)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/luca.barbero.79) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barbe_is_in_the_air) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-barbero-482576143) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19935574/luca-barbero) 
