@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 , I am Luca Barbero<br><br>A Software Developer specialised in Web Development. <br>I have experience in the technologies listed in the toolbox below.<br><br>My interests:<br>👨🏻‍💻 Coding<br>🎮 Gaming<br>💻 Computers<br>🎶 Music<br>
+Hi there 👋 , I am Luca Barbero<br><br>A Software Developer specialised in Web Development. <br>I have experience in the technologies listed in the Tech Stack below.<br><br>My interests:<br>👨🏻‍💻 Coding<br>🎮 Gaming<br>💻 Computers<br>🎶 Music<br>
 
  💻 ![](https://img.shields.io/badge/Apple-MacBook%20Pro%20M1%202021-orange)
 
